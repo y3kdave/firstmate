@@ -1,0 +1,2 @@
+MISSING: tmux (install: brew install tmux  # or the platform's package manager)
+STOP_AUTOARM: Claude Stop auto-arm failure episode still open: state/.claude-autoarm-failure-notified (age 0s); later Stop auto-arm failures in this episode print no notice until a verified healthy watcher clears it
